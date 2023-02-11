@@ -255,3 +255,4 @@ void Game::Shutdown()
 	SDL_DestroyWindow(mWindow);
 	SDL_Quit();
 }
+
